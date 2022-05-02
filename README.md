@@ -1,1 +1,1 @@
-Hello, my name is Tom. I am a student at McMaster studying computer science.
+I am a student at McMaster University studying computer science.
