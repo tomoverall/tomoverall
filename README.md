@@ -3,7 +3,7 @@
 - Interested in machine-learning, low-level programming, and conceptual computer science and mathematics.
 - Please feel free to contact me via [email](t.overall@hotmail.com) or on [LinkedIn](https://www.linkedin.com/in/thomas-overall)!
 
-# Projects
+# Highlighted Projects
 - StudyAutomate (Python)
   - Using the OpenAI API, users can input their notes via text documents and have an outputted flash-card deck to study from.
 - Vector-Transmitted Disease Simulation (C++)
